@@ -1,4 +1,13 @@
 {
     "drift_mode": "Modo Drift",
-    "racing_cancel": "Corrida: Cancelar busca"
+    "racing_cancel": "Corrida: Cancelar busca",
+    "forfeit": "Desistir",
+    "duel_challenge" : "Desafiar/aceitar jogador próximo",
+    "duel_decline" : "Recusar desafio",
+    "open_chat": "Abrir chat",
+    "toggle_chat_visibility": "Alternar visibilidade do chat",
+    "exit_spectator": "Sair do espectador",
+    "toggle_menu": "Alternar menu",
+    "pursuit_cancel": "Perseguição: Cancelar busca",
+    "pursuit_action": "Perseguição: Pronto / Sair dos resultados"
 }

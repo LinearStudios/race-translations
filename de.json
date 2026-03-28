@@ -1,4 +1,13 @@
 {
     "drift_mode": "Drift-Modus",
-    "racing_cancel": "Rennen: Suche abbrechen"
+    "racing_cancel": "Rennen: Suche abbrechen",
+    "forfeit": "Aufgeben",
+    "duel_challenge" : "Nahe Spieler herausfordern/akzeptieren",
+    "duel_decline" : "Herausforderung ablehnen",
+    "open_chat": "Chat öffnen",
+    "toggle_chat_visibility": "Chat Sichtbarkeit wechseln",
+    "exit_spectator": "Überwachung verlassen",
+    "toggle_menu": "Menü wechseln",
+    "pursuit_cancel": "Verfolgung: Suche abbrechen",
+    "pursuit_action": "Verfolgung: Bereit / Ergebnisse verlassen"
 }

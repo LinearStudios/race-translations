@@ -1,4 +1,13 @@
 {
     "drift_mode": "Tryb Drift",
-    "racing_cancel": "Wyścig: Anuluj wyszukiwanie"
+    "racing_cancel": "Wyścig: Anuluj wyszukiwanie",
+    "forfeit": "Poddać się",
+    "duel_challenge" : "Wyzwanie/zaakceptuj pobliskiego gracza",
+    "duel_decline" : "Odrzuć wyzwanie",
+    "open_chat": "Otwórz czat",
+    "toggle_chat_visibility": "Przełącz widoczność czatu",
+    "exit_spectator": "Wyjdź z trybu obserwatora",
+    "toggle_menu": "Przełącz menu",
+    "pursuit_cancel": "Pościg: Anuluj wyszukiwanie",
+    "pursuit_action": "Pościg: Gotowy / Wyjdź z wyników"
 }

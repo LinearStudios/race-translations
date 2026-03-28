@@ -1,4 +1,13 @@
 {
     "drift_mode": "Drift Mode",
-    "racing_cancel": "Race: Cancel search"
+    "racing_cancel": "Race: Cancel search",
+    "forfeit": "Forfeit",
+    "duel_challenge" : "Challenge/accept nearby player",
+    "duel_decline" : "Decline challenge",
+    "open_chat": "Open Chat",
+    "toggle_chat_visibility": "Toggle Chat Visibility",
+    "exit_spectator": "Exit Spectator",
+    "toggle_menu": "Toggle Menu",
+    "pursuit_cancel": "Pursuit: Cancel search",
+    "pursuit_action": "Pursuit: Ready / Exit results"
 }

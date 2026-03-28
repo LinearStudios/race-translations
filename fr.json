@@ -1,4 +1,13 @@
 {
     "drift_mode" : "Mode Drift",
-    "racing_cancel" : "Course: Annuler la recherche"
+    "racing_cancel" : "Course: Annuler la recherche",
+    "forfeit" : "Forfait",
+    "duel_challenge" : "Défier/accepter joueur proche",
+    "duel_decline" : "Refuser défi",
+    "open_chat": "Ouvrir le chat",
+    "toggle_chat_visibility": "Activer/Désactiver la visibilité du chat",
+    "exit_spectator": "Quitter le spectateur",
+    "toggle_menu": "Activer/Désactiver le menu",
+    "pursuit_cancel": "Poursuite: Annuler la recherche",
+    "pursuit_action": "Poursuite: Prêt / Quitter résultats"
 }
