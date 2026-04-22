@@ -9,5 +9,13 @@
     "exit_spectator": "Überwachung verlassen",
     "toggle_menu": "Menü wechseln",
     "pursuit_cancel": "Verfolgung: Suche abbrechen",
-    "pursuit_action": "Verfolgung: Bereit / Ergebnisse verlassen"
+    "pursuit_action": "Verfolgung: Bereit / Ergebnisse verlassen",
+    "blip_cat_radar": "Radarfallen",
+    "blip_cat_speed_zone": "Geschwindigkeitszonen",
+    "blip_cat_festival": "Festivals",
+    "blip_cat_car_meet": "Car Meets",
+    "blip_cat_race_circuit": "Rennstrecken",
+    "blip_cat_stunt_zone": "Stunt-Zonen",
+    "blip_cat_drift_zone": "Drift-Zonen",
+    "blip_cat_parcours": "Freeroam-Strecken"
 }

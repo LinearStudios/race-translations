@@ -9,5 +9,13 @@
     "exit_spectator": "Salir de espectador",
     "toggle_menu": "Alternar menú",
     "pursuit_cancel": "Persecución: Cancelar búsqueda",
-    "pursuit_action": "Persecución: Listo / Salir resultados"
+    "pursuit_action": "Persecución: Listo / Salir resultados",
+    "blip_cat_radar": "Radares",
+    "blip_cat_speed_zone": "Zonas de velocidad",
+    "blip_cat_festival": "Festivales",
+    "blip_cat_car_meet": "Car Meets",
+    "blip_cat_race_circuit": "Circuitos",
+    "blip_cat_stunt_zone": "Zonas de Stunt",
+    "blip_cat_drift_zone": "Zonas de Drift",
+    "blip_cat_parcours": "Recorridos Freeroam"
 }

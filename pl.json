@@ -9,5 +9,13 @@
     "exit_spectator": "Wyjdź z trybu obserwatora",
     "toggle_menu": "Przełącz menu",
     "pursuit_cancel": "Pościg: Anuluj wyszukiwanie",
-    "pursuit_action": "Pościg: Gotowy / Wyjdź z wyników"
+    "pursuit_action": "Pościg: Gotowy / Wyjdź z wyników",
+    "blip_cat_radar": "Radary",
+    "blip_cat_speed_zone": "Strefy prędkości",
+    "blip_cat_festival": "Festiwale",
+    "blip_cat_car_meet": "Car Meets",
+    "blip_cat_race_circuit": "Tory wyścigowe",
+    "blip_cat_stunt_zone": "Strefy Kaskaderskie",
+    "blip_cat_drift_zone": "Strefy Driftu",
+    "blip_cat_parcours": "Trasy Freeroam"
 }

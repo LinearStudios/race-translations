@@ -9,5 +9,13 @@
     "exit_spectator": "Exit Spectator",
     "toggle_menu": "Toggle Menu",
     "pursuit_cancel": "Pursuit: Cancel search",
-    "pursuit_action": "Pursuit: Ready / Exit results"
+    "pursuit_action": "Pursuit: Ready / Exit results",
+    "blip_cat_radar": "Radars",
+    "blip_cat_speed_zone": "Speed Zones",
+    "blip_cat_festival": "Festivals",
+    "blip_cat_car_meet": "Car Meets",
+    "blip_cat_race_circuit": "Circuits",
+    "blip_cat_stunt_zone": "Stunt Zones",
+    "blip_cat_drift_zone": "Drift Zones",
+    "blip_cat_parcours": "Freeroam Courses"
 }
