@@ -18,5 +18,41 @@
     "blip_cat_stunt_zone": "Stunt Zones",
     "blip_cat_drift_zone": "Drift Zones",
     "blip_cat_parcours": "Freeroam Courses",
-    "blip_cat_story": "Story Mode"
+    "blip_cat_story": "Story Mode",
+
+    "s1_c1_e1_line1": "You want to race these streets? Fine. But Los Santos doesn't forgive amateurs.",
+    "s1_c1_e1_line2": "One lap, one time. Beat the reference and prove you belong here.",
+    "s1_c1_e1_line3": "Show me what you've got. The starting line is waiting.",
+
+    "s1_c1_e2_line1": "Speed is good. Control is better. Show me you can tame that machine.",
+    "s1_c1_e2_line2": "Chain the angles, hold the line. The score will speak for itself.",
+
+    "s1_c1_e3_line1": "You passed the first test. Now we step it up.",
+    "s1_c1_e3_line2": "Same circuit, but this time zero mistakes allowed. Every tenth counts.",
+    "s1_c1_e3_line3": "Ready? Because I'm never short on expectations.",
+
+    "s1_c1_e4_line1": "Some drivers see a ramp and brake. Others floor it.",
+    "s1_c1_e4_line2": "Distance, height, style. Three factors, one goal. Do it right.",
+
+    "s1_c1_e5_line1": "I've watched every run you've made. Not bad. But can you hold your own against someone pushing you for real?",
+    "s1_c1_e5_line2": "One duel, face to face. No safety net, no excuses. Win or go home.",
+    "s1_c1_e5_line3": "This is your last shot to impress me this chapter. Don't waste it.",
+
+    "s1_c2_e1_line1": "Los Santos at night is a different world. Roads are clear, minds are free.",
+    "s1_c2_e1_line2": "Beat the ghost of this night. It never slows down, never makes mistakes. You only get one shot.",
+
+    "s1_c2_e2_line1": "The neons light up the asphalt. In these conditions, only the best stay in control.",
+    "s1_c2_e2_line2": "Let your tires do the talking. Every degree of angle, every meter of slide counts.",
+    "s1_c2_e2_line3": "Valdez is waiting for your score. Don't disappoint.",
+
+    "s1_c2_e3_line1": "The ramp is right there, plain to see. What's less clear is where you'll land.",
+    "s1_c2_e3_line2": "Commit fully and manage the impact. That's what stunt is about.",
+
+    "s1_c2_e4_line1": "I set that time at 3am on an empty circuit. Nobody's matched it yet.",
+    "s1_c2_e4_line2": "Think you can do better? I'm listening. But more importantly, I'm watching.",
+    "s1_c2_e4_line3": "Prove it on the asphalt, not with words.",
+
+    "s1_c2_e5_line1": "You've held your ground so far. Respect. But this duel is different.",
+    "s1_c2_e5_line2": "I don't give breaks and I don't expect you to either. Go all in.",
+    "s1_c2_e5_line3": "May the best driver win. This time, make sure that's you."
 }
