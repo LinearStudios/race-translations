@@ -17,5 +17,42 @@
     "blip_cat_race_circuit": "Circuiti",
     "blip_cat_stunt_zone": "Zone Stunt",
     "blip_cat_drift_zone": "Zone Drift",
-    "blip_cat_parcours": "Percorsi Freeroam"
+    "blip_cat_parcours": "Percorsi Freeroam",
+    "blip_cat_story": "Modalità Storia",
+
+    "s1_c1_e1_line1": "Vuoi correre per queste strade? Bene. Ma Los Santos non perdona gli amatori.",
+    "s1_c1_e1_line2": "Un giro, un crono. Batti il tempo di riferimento e dimostra di meritare di stare qui.",
+    "s1_c1_e1_line3": "Mostrami cosa sai fare. La linea di partenza ti aspetta.",
+
+    "s1_c1_e2_line1": "La velocità è bene. Il controllo è meglio. Mostrami che sai domare quella macchina.",
+    "s1_c1_e2_line2": "Concatena le curve, tieni la traiettoria. Il punteggio parlerà da solo.",
+
+    "s1_c1_e3_line1": "Hai superato il primo test. Ora alziamo il livello.",
+    "s1_c1_e3_line2": "Stesso circuito, ma questa volta zero errori tollerati. Ogni decimo conta.",
+    "s1_c1_e3_line3": "Sei pronto? Perché io non sono mai a corto di aspettative.",
+
+    "s1_c1_e4_line1": "Alcuni piloti vedono una rampa e frenano. Altri accelerano.",
+    "s1_c1_e4_line2": "Distanza, altezza, stile. Tre fattori, un unico obiettivo. Fallo bene.",
+
+    "s1_c1_e5_line1": "Ho osservato ogni tuo passaggio. Non male. Ma riesci a reggere contro qualcuno che ti spinge davvero?",
+    "s1_c1_e5_line2": "Un duello, faccia a faccia. Nessuna rete di sicurezza, nessuna scusa. Vinci o torna a casa.",
+    "s1_c1_e5_line3": "Questa è la tua ultima occasione per impressionarmi in questo capitolo. Non sprecarla.",
+
+    "s1_c2_e1_line1": "Los Santos di notte è un mondo diverso. Le strade sono libere, le menti anche.",
+    "s1_c2_e1_line2": "Batti il ghost di questa notte. Non rallenta mai, non fa mai errori. Hai una sola possibilità.",
+
+    "s1_c2_e2_line1": "I neon illuminano l'asfalto. In queste condizioni, solo i migliori mantengono il controllo.",
+    "s1_c2_e2_line2": "Lascia parlare le tue gomme. Ogni grado di angolo, ogni metro di scivolata conta.",
+    "s1_c2_e2_line3": "Valdez sta aspettando il tuo punteggio. Non deluderlo.",
+
+    "s1_c2_e3_line1": "La rampa è lì, ben visibile. Quello che è meno chiaro è dove atterrerai.",
+    "s1_c2_e3_line2": "Impegnati a fondo e gestisci l'impatto. È questo lo stunt.",
+
+    "s1_c2_e4_line1": "Ho fatto quel tempo alle 3 di mattina su un circuito vuoto. Nessuno l'ha ancora eguagliato.",
+    "s1_c2_e4_line2": "Pensi di poter fare meglio? Ti ascolto. Ma soprattutto, ti guardo.",
+    "s1_c2_e4_line3": "Dimostralo sull'asfalto, non a parole.",
+
+    "s1_c2_e5_line1": "Hai tenuto duro finora. Rispetto. Ma questo duello è diverso.",
+    "s1_c2_e5_line2": "Non faccio regali e non mi aspetto che tu li faccia. Vai a tutto gas.",
+    "s1_c2_e5_line3": "Vinca il miglior pilota. Questa volta, fai in modo che sia tu."
 }
