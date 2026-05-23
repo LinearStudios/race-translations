@@ -17,5 +17,42 @@
     "blip_cat_race_circuit": "Tory wyścigowe",
     "blip_cat_stunt_zone": "Strefy Kaskaderskie",
     "blip_cat_drift_zone": "Strefy Driftu",
-    "blip_cat_parcours": "Trasy Freeroam"
+    "blip_cat_parcours": "Trasy Freeroam",
+    "blip_cat_story": "Tryb Fabularny",
+
+    "s1_c1_e1_line1": "Chcesz ścigać się po tych ulicach? Dobrze. Ale Los Santos nie wybacza amatorom.",
+    "s1_c1_e1_line2": "Jedno okrążenie, jeden czas. Pobij czas referencyjny i udowodnij, że tu pasujesz.",
+    "s1_c1_e1_line3": "Pokaż mi, co potrafisz. Linia startowa czeka.",
+
+    "s1_c1_e2_line1": "Prędkość jest dobra. Kontrola jest lepsza. Pokaż mi, że potrafisz opanować tę maszynę.",
+    "s1_c1_e2_line2": "Łącz zakręty, trzymaj linię. Wynik przemówi sam za siebie.",
+
+    "s1_c1_e3_line1": "Zdałeś pierwszy test. Teraz podnosimy poziom.",
+    "s1_c1_e3_line2": "Ten sam tor, ale tym razem zero błędów tolerowanych. Każda dziesiąta się liczy.",
+    "s1_c1_e3_line3": "Gotowy? Bo ja nigdy nie mam za małych oczekiwań.",
+
+    "s1_c1_e4_line1": "Niektórzy kierowcy widzą rampę i hamują. Inni wciskają gaz do dechy.",
+    "s1_c1_e4_line2": "Odległość, wysokość, styl. Trzy czynniki, jeden cel. Zrób to dobrze.",
+
+    "s1_c1_e5_line1": "Obserwowałem każdy twój przejazd. Nieźle. Ale czy potrafisz utrzymać się przeciw komuś, kto naprawdę cię popycha?",
+    "s1_c1_e5_line2": "Jeden pojedynek, twarzą w twarz. Żadnej siatki bezpieczeństwa, żadnych wymówek. Wygraj albo idź do domu.",
+    "s1_c1_e5_line3": "To twoja ostatnia szansa, by zaimponować mi w tym rozdziale. Nie marnuj jej.",
+
+    "s1_c2_e1_line1": "Los Santos nocą to inny świat. Drogi są wolne, umysły też.",
+    "s1_c2_e1_line2": "Pobij ghosta tej nocy. Nigdy nie zwalnia, nigdy nie popełnia błędów. Masz tylko jedną szansę.",
+
+    "s1_c2_e2_line1": "Neony oświetlają asfalt. W tych warunkach tylko najlepsi zachowują kontrolę.",
+    "s1_c2_e2_line2": "Niech mówią twoje opony. Każdy stopień kąta, każdy metr poślizgu się liczy.",
+    "s1_c2_e2_line3": "Valdez czeka na twój wynik. Nie zawiedź go.",
+
+    "s1_c2_e3_line1": "Rampa jest tuż tam, wyraźnie widoczna. Mniej jasne jest to, gdzie wylądujesz.",
+    "s1_c2_e3_line2": "Zaangażuj się w pełni i zarządzaj uderzeniem. O to właśnie chodzi w stuncie.",
+
+    "s1_c2_e4_line1": "Ustawiłem ten czas o 3 w nocy na pustym torze. Nikt jeszcze go nie wyrównał.",
+    "s1_c2_e4_line2": "Myślisz, że możesz zrobić to lepiej? Słucham. Ale ważniejsze jest to, że patrzę.",
+    "s1_c2_e4_line3": "Udowodnij to na asfalcie, nie słowami.",
+
+    "s1_c2_e5_line1": "Utrzymałeś się do tej pory. Szacunek. Ale ten pojedynek jest inny.",
+    "s1_c2_e5_line2": "Nie daję przerw i nie oczekuję, że ty je dasz. Idź na całość.",
+    "s1_c2_e5_line3": "Niech wygra lepszy kierowca. Tym razem upewnij się, że to ty."
 }
