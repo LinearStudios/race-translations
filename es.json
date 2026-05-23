@@ -17,5 +17,42 @@
     "blip_cat_race_circuit": "Circuitos",
     "blip_cat_stunt_zone": "Zonas de Stunt",
     "blip_cat_drift_zone": "Zonas de Drift",
-    "blip_cat_parcours": "Recorridos Freeroam"
+    "blip_cat_parcours": "Recorridos Freeroam",
+    "blip_cat_story": "Modo Historia",
+
+    "s1_c1_e1_line1": "¿Quieres correr por estas calles? Bien. Pero Los Santos no perdona a los amateurs.",
+    "s1_c1_e1_line2": "Una vuelta, un tiempo. Supera el tiempo de referencia y demuestra que mereces estar aquí.",
+    "s1_c1_e1_line3": "Muéstrame lo que tienes. La línea de salida está esperando.",
+
+    "s1_c1_e2_line1": "La velocidad está bien. El control es mejor. Muéstrame que puedes domar esa máquina.",
+    "s1_c1_e2_line2": "Encadena los ángulos, mantén la línea. El marcador hablará por sí solo.",
+
+    "s1_c1_e3_line1": "Pasaste la primera prueba. Ahora subimos el nivel.",
+    "s1_c1_e3_line2": "Mismo circuito, pero esta vez cero errores permitidos. Cada décima cuenta.",
+    "s1_c1_e3_line3": "¿Listo? Porque yo nunca escaseo en exigencias.",
+
+    "s1_c1_e4_line1": "Algunos pilotos ven una rampa y frenan. Otros pisan el acelerador.",
+    "s1_c1_e4_line2": "Distancia, altura, estilo. Tres factores, un objetivo. Hazlo bien.",
+
+    "s1_c1_e5_line1": "He observado cada una de tus pasadas. Nada mal. ¿Pero puedes mantenerte contra alguien que te presiona de verdad?",
+    "s1_c1_e5_line2": "Un duelo, cara a cara. Sin red de seguridad, sin excusas. Gana o vete a casa.",
+    "s1_c1_e5_line3": "Esta es tu última oportunidad de impresionarme en este capítulo. No la desperdicies.",
+
+    "s1_c2_e1_line1": "Los Santos de noche es un mundo diferente. Las calles están libres, las mentes también.",
+    "s1_c2_e1_line2": "Supera el ghost de esta noche. Nunca frena, nunca comete errores. Solo tienes una oportunidad.",
+
+    "s1_c2_e2_line1": "Los neones iluminan el asfalto. En estas condiciones, solo los mejores mantienen el control.",
+    "s1_c2_e2_line2": "Deja hablar a tus neumáticos. Cada grado de ángulo, cada metro de derrape cuenta.",
+    "s1_c2_e2_line3": "Valdez espera tu puntuación. No lo decepciones.",
+
+    "s1_c2_e3_line1": "La rampa está ahí, bien visible. Lo que no está tan claro es dónde aterrizarás.",
+    "s1_c2_e3_line2": "Comprométete al máximo y gestiona el impacto. Eso es el stunt.",
+
+    "s1_c2_e4_line1": "Puse ese tiempo a las 3 de la mañana en un circuito vacío. Nadie lo ha igualado aún.",
+    "s1_c2_e4_line2": "¿Crees que puedes hacerlo mejor? Te escucho. Pero más importante, te estoy viendo.",
+    "s1_c2_e4_line3": "Demuéstralo en el asfalto, no con palabras.",
+
+    "s1_c2_e5_line1": "Has aguantado hasta aquí. Respeto. Pero este duelo es diferente.",
+    "s1_c2_e5_line2": "No doy tregua y no espero que tú la des. Ve a por todas.",
+    "s1_c2_e5_line3": "Que gane el mejor piloto. Esta vez, asegúrate de que seas tú."
 }
