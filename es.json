@@ -21,6 +21,9 @@
     "blip_cat_parcours": "Recorridos Freeroam",
     "blip_cat_story": "Modo Historia",
 
+    "shop_vehicle_purchased": "~g~¡Vehículo comprado!~s~ ~y~{0}~s~ añadido a tu garaje.",
+    "shop_keys_received": "Llaves recibidas para: {0}",
+
     "s1_c1_e1_line1": "¿Quieres correr por estas calles? Bien. Pero Los Santos no perdona a los amateurs.",
     "s1_c1_e1_line2": "Una vuelta, un tiempo. Supera el tiempo de referencia y demuestra que mereces estar aquí.",
     "s1_c1_e1_line3": "Muéstrame lo que tienes. La línea de salida está esperando.",

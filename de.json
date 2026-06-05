@@ -21,6 +21,9 @@
     "blip_cat_parcours": "Freeroam-Strecken",
     "blip_cat_story": "Storymodus",
 
+    "shop_vehicle_purchased": "~g~Fahrzeug gekauft!~s~ ~y~{0}~s~ zu deiner Garage hinzugefügt.",
+    "shop_keys_received": "Schlüssel erhalten für: {0}",
+
     "s1_c1_e1_line1": "Du willst auf diesen Straßen fahren? Gut. Aber Los Santos verzeiht keine Amateure.",
     "s1_c1_e1_line2": "Eine Runde, eine Zeit. Schlage die Referenzzeit und beweise, dass du hierher gehörst.",
     "s1_c1_e1_line3": "Zeig mir, was du kannst. Die Startlinie wartet.",

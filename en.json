@@ -21,6 +21,9 @@
     "blip_cat_parcours": "Freeroam Courses",
     "blip_cat_story": "Story Mode",
 
+    "shop_vehicle_purchased": "~g~Vehicle purchased!~s~ ~y~{0}~s~ added to your garage.",
+    "shop_keys_received": "Keys received for: {0}",
+
     "s1_c1_e1_line1": "You want to race these streets? Fine. But Los Santos doesn't forgive amateurs.",
     "s1_c1_e1_line2": "One lap, one time. Beat the reference and prove you belong here.",
     "s1_c1_e1_line3": "Show me what you've got. The starting line is waiting.",

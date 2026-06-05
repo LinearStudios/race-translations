@@ -21,6 +21,9 @@
     "blip_cat_parcours": "Trasy Freeroam",
     "blip_cat_story": "Tryb Fabularny",
 
+    "shop_vehicle_purchased": "~g~Pojazd kupiony!~s~ ~y~{0}~s~ dodany do twojego garażu.",
+    "shop_keys_received": "Klucze otrzymane dla: {0}",
+
     "s1_c1_e1_line1": "Chcesz ścigać się po tych ulicach? Dobrze. Ale Los Santos nie wybacza amatorom.",
     "s1_c1_e1_line2": "Jedno okrążenie, jeden czas. Pobij czas referencyjny i udowodnij, że tu pasujesz.",
     "s1_c1_e1_line3": "Pokaż mi, co potrafisz. Linia startowa czeka.",
