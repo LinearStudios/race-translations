@@ -26,6 +26,10 @@
     "shop_vehicle_purchased": "~g~Fahrzeug gekauft!~s~ ~y~{0}~s~ zu deiner Garage hinzugefügt.",
     "shop_keys_received": "Schlüssel erhalten für: {0}",
 
+    "ac_flag_notify": "⚠ AC Flag: {0} (Trust: {1})",
+    "ac_weapon_removed": "~r~Nicht autorisierte Waffe entfernt.~s~",
+    "command_access_denied": "~r~Zugriff verweigert~s~: Du hast nicht die erforderliche Berechtigung",
+
     "admin_access_denied": "~r~Zugriff verweigert~s~",
     "admin_access_denied_superadmin": "~r~Zugriff verweigert~s~: SuperAdmin erforderlich",
     "admin_access_denied_owner": "~r~Zugriff verweigert~s~: OWNER erforderlich",
@@ -95,6 +99,7 @@
     "admin_perm_no_higher_modify": "~r~Fehler~s~: Du kannst Spieler gleichen oder höheren Levels nicht ändern",
     "admin_perm_invalid": "~r~Fehler~s~: Ungültiges Berechtigungslevel (0-4)",
     "admin_perm_superadmin_required": "~r~Zugriff verweigert~s~: Dieser Befehl erfordert SuperAdmin-Level",
+    "admin_perm_levels": "~y~Level~s~: 0=Spieler, 1=Helper, 2=Moderator, 3=Admin, 4=SuperAdmin",
     "admin_perm_changed": "~g~Erfolg~s~: Berechtigung von ~y~{0}~s~ von ~o~{1}~s~ auf ~r~{2}~s~ geändert",
     "admin_perm_changed_offline": "~g~Erfolg~s~: Berechtigung von ~y~{0}#{1}~s~ (offline) von ~o~{2}~s~ auf ~r~{3}~s~ geändert",
     "admin_perm_modified_by_console": "~r~Dein Berechtigungslevel wurde von der Konsole geändert~s~: ~o~{0}~s~ → ~r~{1}~s~",

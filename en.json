@@ -26,6 +26,10 @@
     "shop_vehicle_purchased": "~g~Vehicle purchased!~s~ ~y~{0}~s~ added to your garage.",
     "shop_keys_received": "Keys received for: {0}",
 
+    "ac_flag_notify": "⚠ AC Flag: {0} (Trust: {1})",
+    "ac_weapon_removed": "~r~Unauthorized weapon removed.~s~",
+    "command_access_denied": "~r~Access denied~s~: You do not have the required permission",
+
     "admin_access_denied": "~r~Access denied~s~",
     "admin_access_denied_superadmin": "~r~Access denied~s~: SuperAdmin required",
     "admin_access_denied_owner": "~r~Access denied~s~: OWNER required",
@@ -95,6 +99,7 @@
     "admin_perm_no_higher_modify": "~r~Error~s~: You cannot modify a player of equal or higher level",
     "admin_perm_invalid": "~r~Error~s~: Invalid permission level (0-4)",
     "admin_perm_superadmin_required": "~r~Access denied~s~: This command requires SuperAdmin level",
+    "admin_perm_levels": "~y~Levels~s~: 0=Player, 1=Helper, 2=Moderator, 3=Admin, 4=SuperAdmin",
     "admin_perm_changed": "~g~Success~s~: Permission of ~y~{0}~s~ changed from ~o~{1}~s~ to ~r~{2}~s~",
     "admin_perm_changed_offline": "~g~Success~s~: Permission of ~y~{0}#{1}~s~ (offline) changed from ~o~{2}~s~ to ~r~{3}~s~",
     "admin_perm_modified_by_console": "~r~Your permission level was modified by the console~s~: ~o~{0}~s~ → ~r~{1}~s~",

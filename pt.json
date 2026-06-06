@@ -26,6 +26,10 @@
     "shop_vehicle_purchased": "~g~Veículo comprado!~s~ ~y~{0}~s~ adicionado à sua garagem.",
     "shop_keys_received": "Chaves recebidas para: {0}",
 
+    "ac_flag_notify": "⚠ AC Flag: {0} (Trust: {1})",
+    "ac_weapon_removed": "~r~Arma não autorizada removida.~s~",
+    "command_access_denied": "~r~Acesso negado~s~: Você não tem a permissão necessária",
+
     "admin_access_denied": "~r~Acesso negado~s~",
     "admin_access_denied_superadmin": "~r~Acesso negado~s~: SuperAdmin necessário",
     "admin_access_denied_owner": "~r~Acesso negado~s~: OWNER necessário",
@@ -95,6 +99,7 @@
     "admin_perm_no_higher_modify": "~r~Erro~s~: Não podes modificar um jogador de nível igual ou superior",
     "admin_perm_invalid": "~r~Erro~s~: Nível de permissão inválido (0-4)",
     "admin_perm_superadmin_required": "~r~Acesso negado~s~: Este comando requer nível SuperAdmin",
+    "admin_perm_levels": "~y~Níveis~s~: 0=Jogador, 1=Helper, 2=Moderador, 3=Admin, 4=SuperAdmin",
     "admin_perm_changed": "~g~Sucesso~s~: Permissão de ~y~{0}~s~ alterada de ~o~{1}~s~ para ~r~{2}~s~",
     "admin_perm_changed_offline": "~g~Sucesso~s~: Permissão de ~y~{0}#{1}~s~ (offline) alterada de ~o~{2}~s~ para ~r~{3}~s~",
     "admin_perm_modified_by_console": "~r~O teu nível de permissão foi modificado pela consola~s~: ~o~{0}~s~ → ~r~{1}~s~",
