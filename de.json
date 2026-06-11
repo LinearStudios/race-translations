@@ -241,6 +241,7 @@
     "race_no_ghost": "~r~Dieser Spieler hat keine Zeit auf dieser Strecke",
     "report_taken": "~g~Deine Meldung ~y~#{0}~s~ wurde von ~y~{1}~s~ bearbeitet",
 
+    "matchmaking_queue": "~b~Matchmaking~s~ — ~y~{0}/{1}~s~ Spieler · ~w~{2}",
     "activity_joined": "Du bist ~r~{0}~s~ beigetreten",
     "activity_left": "Du hast ~r~{0}~s~ verlassen",
     "activity_started": "~r~{0}~s~ hat auf ~y~{1}~s~ begonnen.",

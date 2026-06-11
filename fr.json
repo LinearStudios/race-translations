@@ -240,6 +240,7 @@
     "race_no_ghost": "~r~Ce joueur n'a pas de temps sur ce circuit",
     "report_taken": "~g~Votre signalement ~y~#{0}~s~ a été pris en charge par ~y~{1}~s~",
 
+    "matchmaking_queue": "~b~Matchmaking~s~ — ~y~{0}/{1}~s~ joueurs · ~w~{2}",
     "activity_joined": "Vous avez rejoint ~r~{0}~s~",
     "activity_left": "Vous avez quitté ~r~{0}~s~",
     "activity_started": "~r~{0}~s~ a démarré sur ~y~{1}~s~.",

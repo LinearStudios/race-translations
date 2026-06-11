@@ -241,6 +241,7 @@
     "race_no_ghost": "~r~This player has no time on this circuit",
     "report_taken": "~g~Your report ~y~#{0}~s~ has been handled by ~y~{1}~s~",
 
+    "matchmaking_queue": "~b~Matchmaking~s~ — ~y~{0}/{1}~s~ players · ~w~{2}",
     "activity_joined": "You have joined ~r~{0}~s~",
     "activity_left": "You have left ~r~{0}~s~",
     "activity_started": "~r~{0}~s~ has started on ~y~{1}~s~.",

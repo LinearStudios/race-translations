@@ -241,6 +241,7 @@
     "race_no_ghost": "~r~Ten gracz nie ma czasu na tym torze",
     "report_taken": "~g~Twoje zgłoszenie ~y~#{0}~s~ zostało obsłużone przez ~y~{1}~s~",
 
+    "matchmaking_queue": "~b~Matchmaking~s~ — ~y~{0}/{1}~s~ graczy · ~w~{2}",
     "activity_joined": "Dołączyłeś do ~r~{0}~s~",
     "activity_left": "Opuściłeś ~r~{0}~s~",
     "activity_started": "~r~{0}~s~ rozpoczął się na ~y~{1}~s~.",
