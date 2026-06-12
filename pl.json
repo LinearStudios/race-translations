@@ -2,8 +2,6 @@
     "context_menu": "Otwórz menu kontekstowe",
     "drift_mode": "Tryb Drift",
     "rockstar_editor_record": "Rockstar Editor: Rozpocznij/Zatrzymaj nagrywanie",
-    "rockstar_editor_recording_started": "~g~[Rockstar Editor]~s~ Nagrywanie rozpoczęte — ~r~/record~s~ lub ~r~F4~s~ aby zatrzymać",
-    "rockstar_editor_recording_stopped": "~g~[Rockstar Editor]~s~ Klip zapisany",
     "racing_cancel": "Wyścig: Anuluj wyszukiwanie",
     "forfeit": "Poddać się",
     "duel_challenge" : "Wyzwanie/zaakceptuj pobliskiego gracza",

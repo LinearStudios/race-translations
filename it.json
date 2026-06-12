@@ -2,8 +2,6 @@
     "context_menu": "Apri menu contestuale",
     "drift_mode": "Modalità Drift",
     "rockstar_editor_record": "Rockstar Editor: Avvia/Interrompi registrazione",
-    "rockstar_editor_recording_started": "~g~[Rockstar Editor]~s~ Registrazione avviata — ~r~/record~s~ o ~r~F4~s~ per fermare",
-    "rockstar_editor_recording_stopped": "~g~[Rockstar Editor]~s~ Clip salvato",
     "racing_cancel": "Corsa: Annulla ricerca",
     "forfeit": "Ritirarsi",
     "duel_challenge" : "Sfida/accetta giocatore vicino",
