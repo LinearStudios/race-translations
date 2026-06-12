@@ -1,6 +1,9 @@
 {
     "context_menu": "Kontextmenü öffnen",
     "drift_mode": "Drift-Modus",
+    "rockstar_editor_record": "Rockstar Editor: Aufnahme starten/stoppen",
+    "rockstar_editor_recording_started": "~g~[Rockstar Editor]~s~ Aufnahme gestartet — ~r~/record~s~ oder ~r~F4~s~ zum Stoppen",
+    "rockstar_editor_recording_stopped": "~g~[Rockstar Editor]~s~ Clip gespeichert",
     "racing_cancel": "Rennen: Suche abbrechen",
     "forfeit": "Aufgeben",
     "duel_challenge" : "Nahe Spieler herausfordern/akzeptieren",

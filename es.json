@@ -1,6 +1,9 @@
 {
     "context_menu": "Abrir menú contextual",
     "drift_mode": "Modo Drift",
+    "rockstar_editor_record": "Rockstar Editor: Iniciar/Detener grabación",
+    "rockstar_editor_recording_started": "~g~[Rockstar Editor]~s~ Grabación iniciada — ~r~/record~s~ o ~r~F4~s~ para detener",
+    "rockstar_editor_recording_stopped": "~g~[Rockstar Editor]~s~ Clip guardado",
     "racing_cancel": "Carrera: Cancelar búsqueda",
     "forfeit": "Retirarse",
     "duel_challenge" : "Desafiar/aceptar jugador cercano",
