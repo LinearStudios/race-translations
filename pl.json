@@ -283,5 +283,13 @@
 
     "s1_c2_e5_line1": "Utrzymałeś się do tej pory. Szacunek. Ale ten pojedynek jest inny.",
     "s1_c2_e5_line2": "Nie daję przerw i nie oczekuję, że ty je dasz. Idź na całość.",
-    "s1_c2_e5_line3": "Niech wygra lepszy kierowca. Tym razem upewnij się, że to ty."
+    "s1_c2_e5_line3": "Niech wygra lepszy kierowca. Tym razem upewnij się, że to ty.",
+    "daily_gift_claimed_credits": "Prezent Dzień {0}: +{1} kredytów!",
+    "daily_gift_claimed_coins": "Prezent Dzień {0}: +{1} RC!",
+    "daily_gift_claimed_xp": "Prezent Dzień {0}: +{1} XP!",
+    "daily_gift_claimed_vehicle": "Prezent Dzień {0}: Pojazd dodany do garażu!",
+    "daily_gift_claimed_chameleon": "Prezent Dzień {0}: Kameleon odblokowany!",
+    "daily_gift_claimed_boost_xp": "Prezent Dzień {0}: Boost XP x{1} aktywowany!",
+    "daily_gift_claimed_boost_credit": "Prezent Dzień {0}: Boost Kredytów x{1} aktywowany!",
+    "daily_gift_recovered": "Seria wznowiona od Dnia {0}!"
 }

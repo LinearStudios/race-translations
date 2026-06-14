@@ -283,5 +283,13 @@
 
     "s1_c2_e5_line1": "Hai tenuto duro finora. Rispetto. Ma questo duello è diverso.",
     "s1_c2_e5_line2": "Non faccio regali e non mi aspetto che tu li faccia. Vai a tutto gas.",
-    "s1_c2_e5_line3": "Vinca il miglior pilota. Questa volta, fai in modo che sia tu."
+    "s1_c2_e5_line3": "Vinca il miglior pilota. Questa volta, fai in modo che sia tu.",
+    "daily_gift_claimed_credits": "Regalo Giorno {0}: +{1} crediti!",
+    "daily_gift_claimed_coins": "Regalo Giorno {0}: +{1} RC!",
+    "daily_gift_claimed_xp": "Regalo Giorno {0}: +{1} XP!",
+    "daily_gift_claimed_vehicle": "Regalo Giorno {0}: Veicolo aggiunto al garage!",
+    "daily_gift_claimed_chameleon": "Regalo Giorno {0}: Camaleonte sbloccato!",
+    "daily_gift_claimed_boost_xp": "Regalo Giorno {0}: Boost XP x{1} attivato!",
+    "daily_gift_claimed_boost_credit": "Regalo Giorno {0}: Boost Crediti x{1} attivato!",
+    "daily_gift_recovered": "Serie ripresa dal Giorno {0}!"
 }

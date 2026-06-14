@@ -283,5 +283,13 @@
 
     "s1_c2_e5_line1": "Du hast dich bisher behauptet. Respekt. Aber dieses Duell ist anders.",
     "s1_c2_e5_line2": "Ich gebe keine Pausen und erwarte nicht, dass du es tust. Geh aufs Ganze.",
-    "s1_c2_e5_line3": "Möge der bessere Fahrer gewinnen. Diesmal, stell sicher, dass das du bist."
+    "s1_c2_e5_line3": "Möge der bessere Fahrer gewinnen. Diesmal, stell sicher, dass das du bist.",
+    "daily_gift_claimed_credits": "Tag {0} Geschenk: +{1} Credits!",
+    "daily_gift_claimed_coins": "Tag {0} Geschenk: +{1} RC!",
+    "daily_gift_claimed_xp": "Tag {0} Geschenk: +{1} XP!",
+    "daily_gift_claimed_vehicle": "Tag {0} Geschenk: Fahrzeug zur Garage hinzugefügt!",
+    "daily_gift_claimed_chameleon": "Tag {0} Geschenk: Chamäleon freigeschaltet!",
+    "daily_gift_claimed_boost_xp": "Tag {0} Geschenk: XP-Boost x{1} aktiviert!",
+    "daily_gift_claimed_boost_credit": "Tag {0} Geschenk: Credits-Boost x{1} aktiviert!",
+    "daily_gift_recovered": "Serie ab Tag {0} fortgesetzt!"
 }

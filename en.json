@@ -283,5 +283,13 @@
 
     "s1_c2_e5_line1": "You've held your ground so far. Respect. But this duel is different.",
     "s1_c2_e5_line2": "I don't give breaks and I don't expect you to either. Go all in.",
-    "s1_c2_e5_line3": "May the best driver win. This time, make sure that's you."
+    "s1_c2_e5_line3": "May the best driver win. This time, make sure that's you.",
+    "daily_gift_claimed_credits": "Day {0} Gift: +{1} credits!",
+    "daily_gift_claimed_coins": "Day {0} Gift: +{1} RC!",
+    "daily_gift_claimed_xp": "Day {0} Gift: +{1} XP!",
+    "daily_gift_claimed_vehicle": "Day {0} Gift: Vehicle added to your garage!",
+    "daily_gift_claimed_chameleon": "Day {0} Gift: Chameleon unlocked!",
+    "daily_gift_claimed_boost_xp": "Day {0} Gift: XP Boost x{1} activated!",
+    "daily_gift_claimed_boost_credit": "Day {0} Gift: Credits Boost x{1} activated!",
+    "daily_gift_recovered": "Streak resumed from Day {0}!"
 }

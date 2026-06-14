@@ -283,5 +283,13 @@
 
     "s1_c2_e5_line1": "Has aguantado hasta aquí. Respeto. Pero este duelo es diferente.",
     "s1_c2_e5_line2": "No doy tregua y no espero que tú la des. Ve a por todas.",
-    "s1_c2_e5_line3": "Que gane el mejor piloto. Esta vez, asegúrate de que seas tú."
+    "s1_c2_e5_line3": "Que gane el mejor piloto. Esta vez, asegúrate de que seas tú.",
+    "daily_gift_claimed_credits": "Regalo Día {0}: ¡+{1} créditos!",
+    "daily_gift_claimed_coins": "Regalo Día {0}: ¡+{1} RC!",
+    "daily_gift_claimed_xp": "Regalo Día {0}: ¡+{1} XP!",
+    "daily_gift_claimed_vehicle": "Regalo Día {0}: ¡Vehículo añadido al garaje!",
+    "daily_gift_claimed_chameleon": "Regalo Día {0}: ¡Camaleón desbloqueado!",
+    "daily_gift_claimed_boost_xp": "Regalo Día {0}: ¡Boost XP x{1} activado!",
+    "daily_gift_claimed_boost_credit": "Regalo Día {0}: ¡Boost Créditos x{1} activado!",
+    "daily_gift_recovered": "¡Serie reanudada desde el Día {0}!"
 }
