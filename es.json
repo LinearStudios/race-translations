@@ -291,5 +291,9 @@
     "daily_gift_claimed_chameleon": "Regalo Día {0}: ¡Camaleón desbloqueado!",
     "daily_gift_claimed_boost_xp": "Regalo Día {0}: ¡Boost XP x{1} activado!",
     "daily_gift_claimed_boost_credit": "Regalo Día {0}: ¡Boost Créditos x{1} activado!",
-    "daily_gift_recovered": "¡Serie reanudada desde el Día {0}!"
+    "daily_gift_recovered": "¡Serie reanudada desde el Día {0}!",
+
+    "barn_find_notif_title": "Tesoro del Granero",
+    "barn_find_notif_ready": "¡{0} está listo para ser recogido!",
+    "barn_find_vehicle_fallback": "Tu vehículo"
 }

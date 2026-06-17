@@ -291,5 +291,9 @@
     "daily_gift_claimed_chameleon": "Prezent Dzień {0}: Kameleon odblokowany!",
     "daily_gift_claimed_boost_xp": "Prezent Dzień {0}: Boost XP x{1} aktywowany!",
     "daily_gift_claimed_boost_credit": "Prezent Dzień {0}: Boost Kredytów x{1} aktywowany!",
-    "daily_gift_recovered": "Seria wznowiona od Dnia {0}!"
+    "daily_gift_recovered": "Seria wznowiona od Dnia {0}!",
+
+    "barn_find_notif_title": "Skarb ze Stodoły",
+    "barn_find_notif_ready": "{0} jest gotowy do odbioru!",
+    "barn_find_vehicle_fallback": "Twój pojazd"
 }
