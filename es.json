@@ -80,6 +80,7 @@
     "admin_boost_cancelled": "~r~Boost {0}~s~ cancelado",
     "admin_give_all_credits": "~g~+{0} CR~s~ distribuidos a ~y~{1} jugador(es)~s~ en freeroam",
     "admin_give_all_wheelspin": "~g~{0} Wheelspin(s)~s~ distribuidos a ~y~{1} jugador(es)~s~ en freeroam",
+    "wheelspin_promo_discord": "~g~+1 Wheelspin~s~ ! Gracias por apoyarnos con ~b~discord.gg/racefivem~s~ en tu estado !",
     "admin_give_all_vehicle_start": "~y~Distribuyendo vehículo ~o~{0}~y~...~s~",
     "admin_give_all_vehicle_done": "~g~Vehículo ~o~{0}~g~ dado a ~y~{1} jugador(es)~s~ en freeroam",
     "admin_give_all_vehicle_invalid": "~r~Modelo de vehículo inválido~s~",
