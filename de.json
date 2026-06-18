@@ -292,5 +292,9 @@
     "daily_gift_claimed_chameleon": "Tag {0} Geschenk: Chamäleon freigeschaltet!",
     "daily_gift_claimed_boost_xp": "Tag {0} Geschenk: XP-Boost x{1} aktiviert!",
     "daily_gift_claimed_boost_credit": "Tag {0} Geschenk: Credits-Boost x{1} aktiviert!",
-    "daily_gift_recovered": "Serie ab Tag {0} fortgesetzt!"
+    "daily_gift_recovered": "Serie ab Tag {0} fortgesetzt!",
+
+    "barn_find_notif_title": "Scheunen-Fund",
+    "barn_find_notif_ready": "{0} ist abholbereit!",
+    "barn_find_vehicle_fallback": "Ihr Fahrzeug"
 }

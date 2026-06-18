@@ -292,5 +292,9 @@
     "daily_gift_claimed_chameleon": "Presente Dia {0}: Camaleão desbloqueado!",
     "daily_gift_claimed_boost_xp": "Presente Dia {0}: Boost XP x{1} ativado!",
     "daily_gift_claimed_boost_credit": "Presente Dia {0}: Boost Créditos x{1} ativado!",
-    "daily_gift_recovered": "Sequência retomada a partir do Dia {0}!"
+    "daily_gift_recovered": "Sequência retomada a partir do Dia {0}!",
+
+    "barn_find_notif_title": "Tesouro do Celeiro",
+    "barn_find_notif_ready": "{0} está pronto para ser recolhido!",
+    "barn_find_vehicle_fallback": "O seu veículo"
 }

@@ -292,5 +292,9 @@
     "daily_gift_claimed_chameleon": "Day {0} Gift: Chameleon unlocked!",
     "daily_gift_claimed_boost_xp": "Day {0} Gift: XP Boost x{1} activated!",
     "daily_gift_claimed_boost_credit": "Day {0} Gift: Credits Boost x{1} activated!",
-    "daily_gift_recovered": "Streak resumed from Day {0}!"
+    "daily_gift_recovered": "Streak resumed from Day {0}!",
+
+    "barn_find_notif_title": "Barn Find",
+    "barn_find_notif_ready": "{0} is ready to be collected!",
+    "barn_find_vehicle_fallback": "Your vehicle"
 }

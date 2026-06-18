@@ -292,5 +292,9 @@
     "daily_gift_claimed_chameleon": "Regalo Giorno {0}: Camaleonte sbloccato!",
     "daily_gift_claimed_boost_xp": "Regalo Giorno {0}: Boost XP x{1} attivato!",
     "daily_gift_claimed_boost_credit": "Regalo Giorno {0}: Boost Crediti x{1} attivato!",
-    "daily_gift_recovered": "Serie ripresa dal Giorno {0}!"
+    "daily_gift_recovered": "Serie ripresa dal Giorno {0}!",
+
+    "barn_find_notif_title": "Tesoro di Campagna",
+    "barn_find_notif_ready": "{0} è pronto per essere ritirato!",
+    "barn_find_vehicle_fallback": "Il tuo veicolo"
 }

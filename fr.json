@@ -287,5 +287,9 @@
     "daily_gift_claimed_chameleon": "Cadeau Jour {0} : Caméleon débloqué !",
     "daily_gift_claimed_boost_xp": "Cadeau Jour {0} : Boost XP x{1} activé !",
     "daily_gift_claimed_boost_credit": "Cadeau Jour {0} : Boost Crédits x{1} activé !",
-    "daily_gift_recovered": "Série reprise depuis le Jour {0} !"
+    "daily_gift_recovered": "Série reprise depuis le Jour {0} !",
+
+    "barn_find_notif_title": "Trésor de Grange",
+    "barn_find_notif_ready": "{0} est prêt à être récupéré !",
+    "barn_find_vehicle_fallback": "Votre véhicule"
 }
