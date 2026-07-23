@@ -60,6 +60,8 @@
     "admin_activity_restarted": "~g~Activity ~y~{0}#{1}~g~ restarted",
     "admin_activity_kicked_all": "~g~{0} player(s)~s~ ejected from activity ~y~{1}#{2}~s~",
     "admin_tp_to": "~g~Teleported~s~ to ~y~{0}~s~",
+    "admin_tp_no_waypoint": "~r~No waypoint~s~ on the map",
+    "admin_tp_no_ground": "~r~No ground found~s~ at this location",
     "admin_bring": "~g~Brought~s~ ~y~{0}~s~",
     "admin_bring_no_pos": "~r~No saved position~s~ for ~y~{0}~s~",
     "admin_bringback": "~g~Sent back~s~ ~y~{0}~s~ to their position",

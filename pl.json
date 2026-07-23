@@ -60,6 +60,8 @@
     "admin_activity_restarted": "~g~Aktywność ~y~{0}#{1}~g~ zrestartowana",
     "admin_activity_kicked_all": "~g~{0} gracz/y~s~ wyrzucony/ch z aktywności ~y~{1}#{2}~s~",
     "admin_tp_to": "~g~Przeteleportowano~s~ do ~y~{0}~s~",
+    "admin_tp_no_waypoint": "~r~Brak znacznika~s~ na mapie",
+    "admin_tp_no_ground": "~r~Nie znaleziono podłoża~s~ w tym miejscu",
     "admin_bring": "~g~Sprowadzono~s~ ~y~{0}~s~",
     "admin_bring_no_pos": "~r~Brak zapisanej pozycji~s~ dla ~y~{0}~s~",
     "admin_bringback": "~g~Odeslano~s~ ~y~{0}~s~ z powrotem na pozycję",
