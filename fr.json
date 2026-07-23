@@ -60,7 +60,7 @@
     "admin_activity_kicked_all": "~g~{0} joueurs~s~ éjectés de l'activité ~y~{1}#{2}~s~",
     "admin_tp_to": "~g~Téléporté~s~ vers ~y~{0}~s~",
     "admin_tp_no_waypoint": "~r~Aucun marqueur~s~ sur la carte",
-    "admin_tp_no_ground": "~r~Aucun sol trouvé~s~ à cet endroit",
+    "admin_tp_no_ground": "~r~Aucun sol trouvé~s~ à cette position",
     "admin_bring": "~g~Ramené~s~ ~y~{0}~s~",
     "admin_bring_no_pos": "~r~Aucune position sauvegardée~s~ pour ~y~{0}~s~",
     "admin_bringback": "~g~Renvoyé~s~ ~y~{0}~s~ à sa position",
