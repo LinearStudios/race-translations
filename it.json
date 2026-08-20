@@ -370,6 +370,7 @@
     "builder_poly_ready": "(~g~OK~s~)",
     "builder_poly_remaining": "(~r~ancora {0}~s~)",
     "radar_create_error": "~r~Impossibile creare questo radar.",
+    "radar_created": "~g~Radar ~s~~y~{0}~s~ ~g~creato.~s~",
     "radar_default_name": "AUTOVELOX",
     "radar_update_error": "~r~Impossibile modificare questo radar.",
     "parcours_builder_name_title": "Nome del percorso",

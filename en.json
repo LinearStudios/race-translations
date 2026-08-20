@@ -370,6 +370,7 @@
     "builder_poly_ready": "(~g~OK~s~)",
     "builder_poly_remaining": "(~r~{0} more~s~)",
     "radar_create_error": "~r~Could not create this radar.",
+    "radar_created": "~g~Radar ~s~~y~{0}~s~ ~g~created.~s~",
     "radar_default_name": "RADAR",
     "radar_update_error": "~r~Could not update this radar.",
     "parcours_builder_name_title": "Course name",

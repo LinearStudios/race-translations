@@ -370,6 +370,7 @@
     "builder_poly_ready": "(~g~OK~s~)",
     "builder_poly_remaining": "(~r~faltan {0}~s~)",
     "radar_create_error": "~r~No se ha podido crear este radar.",
+    "radar_created": "~g~Radar ~s~~y~{0}~s~ ~g~creado.~s~",
     "radar_default_name": "RADAR",
     "radar_update_error": "~r~No se ha podido editar este radar.",
     "parcours_builder_name_title": "Nombre del recorrido",
