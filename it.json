@@ -1365,6 +1365,8 @@
     "admin_grade_badge_protected": "PROTETTO",
     "admin_grade_create": "Creare un grado",
     "admin_grade_create_desc": "Identificativo, nome visualizzato, priorità e colore",
+    "admin_grade_create_confirm": "Crea il grado",
+    "admin_grade_create_incomplete": "Inserisci l'identificatore, il nome visualizzato e la priorità",
     "admin_grade_delete": "Eliminare il grado",
     "admin_grade_delete_desc": "Rimuove il grado e i suoi membri",
     "admin_grade_info_desc": "Priorità {0}",

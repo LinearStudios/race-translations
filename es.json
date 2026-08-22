@@ -1365,6 +1365,8 @@
     "admin_grade_badge_protected": "PROTEGIDO",
     "admin_grade_create": "Crear un rango",
     "admin_grade_create_desc": "Identificador, nombre visible, prioridad y color",
+    "admin_grade_create_confirm": "Crear el rango",
+    "admin_grade_create_incomplete": "Indica el identificador, el nombre mostrado y la prioridad",
     "admin_grade_delete": "Eliminar el rango",
     "admin_grade_delete_desc": "Elimina el rango y sus miembros",
     "admin_grade_info_desc": "Prioridad {0}",

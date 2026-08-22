@@ -1365,6 +1365,8 @@
     "admin_grade_badge_protected": "CHRONIONA",
     "admin_grade_create": "Utwórz rangę",
     "admin_grade_create_desc": "Identyfikator, nazwa wyświetlana, priorytet i kolor",
+    "admin_grade_create_confirm": "Utwórz rangę",
+    "admin_grade_create_incomplete": "Podaj identyfikator, nazwę wyświetlaną i priorytet",
     "admin_grade_delete": "Usuń rangę",
     "admin_grade_delete_desc": "Usuwa rangę i jej członków",
     "admin_grade_info_desc": "Priorytet {0}",

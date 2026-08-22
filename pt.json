@@ -1365,6 +1365,8 @@
     "admin_grade_badge_protected": "PROTEGIDO",
     "admin_grade_create": "Criar um cargo",
     "admin_grade_create_desc": "Identificador, nome apresentado, prioridade e cor",
+    "admin_grade_create_confirm": "Criar o cargo",
+    "admin_grade_create_incomplete": "Indica o identificador, o nome apresentado e a prioridade",
     "admin_grade_delete": "Eliminar o cargo",
     "admin_grade_delete_desc": "Remove o cargo e os seus membros",
     "admin_grade_info_desc": "Prioridade {0}",
