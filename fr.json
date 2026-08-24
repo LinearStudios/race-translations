@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Composante verte de la couleur",
     "admin_barrier_color_r": "Rouge",
     "admin_barrier_color_r_desc": "Composante rouge de la couleur",
-    "admin_builder_barrier": "Barrière de Flèches",
-    "admin_builder_barrier_desc": "Placer une barrière de flèches jaunes entre deux points",
     "admin_builder_drift": "Zone Drift (FH5)",
     "admin_builder_drift_desc": "Créer une zone drift à 2 murs, configurer les seuils d'étoiles",
     "admin_builder_festival": "Festival & Meetup",

@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Green component of the color",
     "admin_barrier_color_r": "Red",
     "admin_barrier_color_r_desc": "Red component of the color",
-    "admin_builder_barrier": "Arrow Barrier",
-    "admin_builder_barrier_desc": "Place a yellow arrow barrier between two points",
     "admin_builder_drift": "Drift Zone (FH5)",
     "admin_builder_drift_desc": "Create a 2-wall drift zone, configure star thresholds",
     "admin_builder_festival": "Festival & Meetup",

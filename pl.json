@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Zielona składowa koloru",
     "admin_barrier_color_r": "Czerwony",
     "admin_barrier_color_r_desc": "Czerwona składowa koloru",
-    "admin_builder_barrier": "Bariera ze strzałek",
-    "admin_builder_barrier_desc": "Ustaw barierę z żółtych strzałek między dwoma punktami",
     "admin_builder_drift": "Strefa driftu (FH5)",
     "admin_builder_drift_desc": "Utwórz strefę driftu z dwiema ścianami i ustaw progi gwiazdek",
     "admin_builder_festival": "Festival & Meetup",

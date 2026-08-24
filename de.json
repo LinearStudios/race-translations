@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Grünanteil der Farbe",
     "admin_barrier_color_r": "Rot",
     "admin_barrier_color_r_desc": "Rotanteil der Farbe",
-    "admin_builder_barrier": "Pfeilbarriere",
-    "admin_builder_barrier_desc": "Eine gelbe Pfeilbarriere zwischen zwei Punkten platzieren",
     "admin_builder_drift": "Driftzone (FH5)",
     "admin_builder_drift_desc": "Driftzone mit 2 Wänden erstellen, Sternschwellen konfigurieren",
     "admin_builder_festival": "Festival & Meetup",

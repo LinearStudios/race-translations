@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Componente verde da cor",
     "admin_barrier_color_r": "Vermelho",
     "admin_barrier_color_r_desc": "Componente vermelha da cor",
-    "admin_builder_barrier": "Barreira de Setas",
-    "admin_builder_barrier_desc": "Colocar uma barreira de setas amarelas entre dois pontos",
     "admin_builder_drift": "Zona de Drift (FH5)",
     "admin_builder_drift_desc": "Criar uma zona de drift com 2 muros, configurar os limiares de estrelas",
     "admin_builder_festival": "Festival & Meetup",

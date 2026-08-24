@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Componente verde del color",
     "admin_barrier_color_r": "Rojo",
     "admin_barrier_color_r_desc": "Componente rojo del color",
-    "admin_builder_barrier": "Barrera de Flechas",
-    "admin_builder_barrier_desc": "Colocar una barrera de flechas amarillas entre dos puntos",
     "admin_builder_drift": "Zona de Drift (FH5)",
     "admin_builder_drift_desc": "Crear una zona de drift de 2 muros, configurar los umbrales de estrellas",
     "admin_builder_festival": "Festival y Meetup",

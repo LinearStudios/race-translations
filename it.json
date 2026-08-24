@@ -1320,8 +1320,6 @@
     "admin_barrier_color_g_desc": "Componente verde del colore",
     "admin_barrier_color_r": "Rosso",
     "admin_barrier_color_r_desc": "Componente rossa del colore",
-    "admin_builder_barrier": "Barriera di Frecce",
-    "admin_builder_barrier_desc": "Posiziona una barriera di frecce gialle tra due punti",
     "admin_builder_drift": "Zona Drift (FH5)",
     "admin_builder_drift_desc": "Crea una zona drift a 2 muri, configura le soglie stella",
     "admin_builder_festival": "Festival & Meetup",
