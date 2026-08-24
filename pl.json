@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "Maksymalnie 64 znaki, unikalna na serwerze",
     "admin_wall_height": "Wysokość",
     "admin_wall_height_desc": "Wysokość barierki, od {0} do {1} metrów: strzałki znajdują się w jej połowie",
+    "admin_wall_offset": "Uniesienie",
+    "admin_wall_offset_desc": "Wysokość, na jaką barierka jest uniesiona nad ziemią, od {0} do {1} metrów: panel i strzałki unoszą się razem",
     "admin_wall_panel_color": "Kolor",
     "admin_wall_channel_desc": "Kanał koloru {0}, od 0 do 255",
     "admin_wall_opacity": "Krycie",

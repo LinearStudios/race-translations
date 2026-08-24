@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "Massimo 64 caratteri, unico sul server",
     "admin_wall_height": "Altezza",
     "admin_wall_height_desc": "Altezza della barriera, da {0} a {1} metri: le frecce stanno a metà altezza",
+    "admin_wall_offset": "Elevazione",
+    "admin_wall_offset_desc": "Altezza a cui la barriera è sollevata dal suolo, da {0} a {1} metri: pannello e frecce salgono insieme",
     "admin_wall_panel_color": "Colore",
     "admin_wall_channel_desc": "Canale {0} del colore, da 0 a 255",
     "admin_wall_opacity": "Opacità",

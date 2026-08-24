@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "Maximal 64 Zeichen, serverweit eindeutig",
     "admin_wall_height": "Höhe",
     "admin_wall_height_desc": "Höhe der Barriere, von {0} bis {1} Meter: die Pfeile sitzen auf halber Höhe",
+    "admin_wall_offset": "Anhebung",
+    "admin_wall_offset_desc": "Höhe, um die die Barriere über dem Boden angehoben wird, von {0} bis {1} Meter: Panel und Pfeile steigen zusammen",
     "admin_wall_panel_color": "Farbe",
     "admin_wall_channel_desc": "Farbkanal {0}, von 0 bis 255",
     "admin_wall_opacity": "Deckkraft",

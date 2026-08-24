@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "Máximo 64 caracteres, único no servidor",
     "admin_wall_height": "Altura",
     "admin_wall_height_desc": "Altura da barreira, de {0} a {1} metros: as setas ficam a meia altura",
+    "admin_wall_offset": "Elevação",
+    "admin_wall_offset_desc": "Altura a que a barreira é elevada acima do solo, de {0} a {1} metros: painel e setas sobem juntos",
     "admin_wall_panel_color": "Cor",
     "admin_wall_channel_desc": "Canal {0} da cor, de 0 a 255",
     "admin_wall_opacity": "Opacidade",

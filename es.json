@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "64 caracteres máximo, único en el servidor",
     "admin_wall_height": "Altura",
     "admin_wall_height_desc": "Altura de la barrera, de {0} a {1} metros: las flechas se sitúan a media altura",
+    "admin_wall_offset": "Elevación",
+    "admin_wall_offset_desc": "Altura a la que se eleva la barrera sobre el suelo, de {0} a {1} metros: el panel y las flechas suben juntos",
     "admin_wall_panel_color": "Color",
     "admin_wall_channel_desc": "Canal {0} del color, de 0 a 255",
     "admin_wall_opacity": "Opacidad",

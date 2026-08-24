@@ -1423,6 +1423,8 @@
     "admin_wall_name_desc": "64 characters max, unique on the server",
     "admin_wall_height": "Height",
     "admin_wall_height_desc": "Barrier height, from {0} to {1} metres: the arrows sit halfway up it",
+    "admin_wall_offset": "Elevation",
+    "admin_wall_offset_desc": "Height the barrier is raised over the ground, from {0} to {1} metres: panel and arrows rise together",
     "admin_wall_panel_color": "Colour",
     "admin_wall_channel_desc": "Colour channel {0}, from 0 to 255",
     "admin_wall_opacity": "Opacity",
