@@ -1661,6 +1661,8 @@
     "gp_wheel_forfeit": "Aufgeben",
     "gp_wheel_rewind": "Zurückspulen",
     "gp_wheel_quickchat": "Schnellchat",
+    "gp_wheel_drift_on": "Drift aktivieren",
+    "gp_wheel_drift_off": "Drift deaktivieren",
     "gp_wheel_chat": "Chat",
     "gp_wheel_chat_write": "Textchat",
     "gp_wheel_chat_toggle": "Ein-/Ausblenden",

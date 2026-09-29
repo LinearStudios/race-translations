@@ -1661,6 +1661,8 @@
     "gp_wheel_forfeit": "Forfeit",
     "gp_wheel_rewind": "Rewind",
     "gp_wheel_quickchat": "Quick chat",
+    "gp_wheel_drift_on": "Enable drift",
+    "gp_wheel_drift_off": "Disable drift",
     "gp_wheel_chat": "Chat",
     "gp_wheel_chat_write": "Text chat",
     "gp_wheel_chat_toggle": "Show/Hide",

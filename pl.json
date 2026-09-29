@@ -1661,6 +1661,8 @@
     "gp_wheel_forfeit": "Poddaj się",
     "gp_wheel_rewind": "Przewiń",
     "gp_wheel_quickchat": "Szybki czat",
+    "gp_wheel_drift_on": "Włącz drift",
+    "gp_wheel_drift_off": "Wyłącz drift",
     "gp_wheel_chat": "Czat",
     "gp_wheel_chat_write": "Czat tekstowy",
     "gp_wheel_chat_toggle": "Pokaż/Ukryj",
